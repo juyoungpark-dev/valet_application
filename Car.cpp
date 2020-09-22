@@ -1,6 +1,4 @@
-//Juyoung Park #150155182
 //Car.cpp
-/*I have done all the coding by myself and only copied the code that my professor provided to complete this program.*/
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
