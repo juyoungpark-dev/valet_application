@@ -30,3 +30,5 @@ This valet parking application allows you to park and return a vehicle (car and 
 # Installation
 Download and extract a zip file.
 
+# Usage
+After closing parking, a csv file that contains parking data of the day will be generated.
